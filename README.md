@@ -1,2 +1,1 @@
-Portugol e Desafio da Urna Eletrônica
-Aulas de portugol feitas em sala de aula, com desafio da criação de uma urna eletrônica
+Todos os exercicios e desafios que envolvem logica de programação e o uso do portugol, estão alocados neste repositório.
